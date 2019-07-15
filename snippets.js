@@ -26,3 +26,6 @@ const validateWithLuhnGradr = (digits) =>{
         return sum && sum % 10 === 0;
 };
 console.log(validateWithLuhnGradr(4475472096160485));
+
+
+https://gist.github.com/Akumzy/b53f8620f3c658655e4f7ad2295aeae7
